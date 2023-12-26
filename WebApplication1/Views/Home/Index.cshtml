@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+ViewData["Lst"] =
+new SelectList(_listDemo,"ListItemValue","ListItemText");
+<select asp-items="@ViewData["Lst"] as SelectList"></select>
+
+
+
