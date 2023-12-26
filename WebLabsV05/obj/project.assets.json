@@ -5642,11 +5642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\10333_Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj",
+      "projectUniqueName": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj",
       "projectName": "WebLabsV05",
-      "projectPath": "D:\\GitHub\\10333_Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj",
+      "projectPath": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj",
       "packagesPath": "C:\\Users\\Ghost\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\10333_Grizkevich_VT\\WebLabsV05\\obj\\",
+      "outputPath": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebLabsV05\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",

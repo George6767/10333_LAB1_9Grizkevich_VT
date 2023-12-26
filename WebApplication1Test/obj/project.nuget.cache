@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bLdUEBbD72npzwep9iry+ZWhk+xBJg5JQXRk2ueK3cO5qjdZqfj1PIh1we4awjlJ94U44qcd33HxifziKd3dxw==",
+  "dgSpecHash": "HoabpYqzM/5GQ5knvOCxg/9Bkv2akVirv07QHeUi5BVvSxRyLPOqipMH3zYuVHhZEW7fSV/43vGAyrz9VYPe0A==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\10333_Grizkevich_VT\\WebApplication1Test\\WebApplication1Test.csproj",
+  "projectFilePath": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebApplication1Test\\WebApplication1Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ghost\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\Ghost\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"

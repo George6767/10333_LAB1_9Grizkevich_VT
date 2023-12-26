@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\10333_Grizkevich_VT\\WebApplication1Test\\WebApplication1Test.csproj": {}
+    "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebApplication1Test\\WebApplication1Test.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\10333_Grizkevich_VT\\WebApplication1Test\\WebApplication1Test.csproj": {
+    "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebApplication1Test\\WebApplication1Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\10333_Grizkevich_VT\\WebApplication1Test\\WebApplication1Test.csproj",
+        "projectUniqueName": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebApplication1Test\\WebApplication1Test.csproj",
         "projectName": "WebApplication1Test",
-        "projectPath": "D:\\GitHub\\10333_Grizkevich_VT\\WebApplication1Test\\WebApplication1Test.csproj",
+        "projectPath": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebApplication1Test\\WebApplication1Test.csproj",
         "packagesPath": "C:\\Users\\Ghost\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\10333_Grizkevich_VT\\WebApplication1Test\\obj\\",
+        "outputPath": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebApplication1Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\10333_Grizkevich_VT\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\10333_Grizkevich_VT\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\10333_Grizkevich_VT\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\GitHub\\10333_Grizkevich_VT\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Ghost\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\10333_Grizkevich_VT\\WebApplication1\\obj\\",
+        "outputPath": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\GitHub\\10333_Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj": {
-                "projectPath": "D:\\GitHub\\10333_Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj"
+              "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj": {
+                "projectPath": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj"
               }
             }
           }
@@ -109,14 +109,14 @@
         }
       }
     },
-    "D:\\GitHub\\10333_Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj": {
+    "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\10333_Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj",
+        "projectUniqueName": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj",
         "projectName": "WebLabsV05",
-        "projectPath": "D:\\GitHub\\10333_Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj",
+        "projectPath": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj",
         "packagesPath": "C:\\Users\\Ghost\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\10333_Grizkevich_VT\\WebLabsV05\\obj\\",
+        "outputPath": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebLabsV05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EVip8qPcvgQ0iCaTzS/F4WtsUx/3bN4p2kcp+OD3i8m2p0J53PvQ55rVHZtZy+akvw4Tqq3Y7gsd8RQa5KUaBA==",
+  "dgSpecHash": "a2vVqaiqrTxaXmab77u/ZGOE+8KTDQ2PxqvgR33JHjwWv45mCIr6B/w9baX7bXA/ThOKwG1ei6wLNQBDhPoukA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\10333_Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj",
+  "projectFilePath": "D:\\GitHub\\VT\\10333_LAB1_9Grizkevich_VT\\WebLabsV05\\WebLabsV05.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ghost\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.4\\microsoft.aspnetcore.cryptography.internal.3.1.4.nupkg.sha512",
     "C:\\Users\\Ghost\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.4\\microsoft.aspnetcore.cryptography.keyderivation.3.1.4.nupkg.sha512",
